@@ -1,9 +1,9 @@
 # [!WIP!] Awesome StimulusReflex
 
 This document is dynamically generated from the contents of `data.yml` with the help of Ruby and Liquid.
-Checkout the contents of the generator folder to see how.
+Checkout the contents of [this action workflow for more](https://github.com/andrewmcodes/awesome-stimulus-reflex/blob/master/.github/workflows/awesome_list_generator.yml) or [view the `awesome_list_generator` gem](https://github.com/andrewmcodes/awesome_list_generator).
 
-You will need to run `gem install liquid` if you don't already have it installed.
+This is currently just a testing ground for the gem.
 
 ## Contents
 
@@ -74,4 +74,3 @@ You will need to run `gem install liquid` if you don't already have it installed
 - [Contusion of oral cavity, subsequent encounter](http://seattletimes.com) - Replacement of Left Pulmonary Artery with Autologous Tissue Substitute, Open Approach
 - [Poisoning by antiasthmatics, undetermined, sequela](https://wikipedia.org) - Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous Endoscopic Approach
 - [Laceration of unsp blood vessel at ank/ft level, left leg](https://upenn.edu) - Restriction of Left Subclavian Vein, Percutaneous Approach
-
