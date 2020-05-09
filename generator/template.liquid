@@ -1,0 +1,21 @@
+# [WIP!!] Awesome StimulusReflex
+
+This document is dynamically generated from the contents of `data.yml` with the help of Ruby and Liquid.
+Checkout the contents of the generator folder to see how.
+
+You will need to run `gem install liquid` if you don't already have it installed.
+
+## Contents
+
+{% assign categories = data.resources | map: "type" | uniq | sort_natural %}
+{%- for category in categories -%}
+- [{{ category | capitalize }}](#{{ category }})
+{% endfor %}
+
+{%- for category in categories %}
+{%- assign category_resources = data.resources | where: "type", category | sort_natural %}
+## {{category | capitalize }}
+{% for resource in category_resources %}
+- [{{ resource.name}}]({{resource.url}}) - {{resource.description}}
+{%- endfor %}
+{% endfor %}
