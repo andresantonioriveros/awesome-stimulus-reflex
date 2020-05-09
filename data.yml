@@ -1,284 +1,222 @@
 ---
 resources:
-  - name: TESTING 123 123
-    description: Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111)
-    url: http://linkedin.com
+  - description: "Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111)"
+    name: "TESTING 123 123"
     type: topic_1
-  - name: 3-part fracture of surgical neck of unsp humerus, sequela
-    description: Inspection of Abdominal Wall, External Approach
-    url: http://princeton.edu
+    url: "http://linkedin.com"
+  - description: "Inspection of Abdominal Wall, External Approach"
+    name: "ANDREW WAS HERE"
     type: topic_1
-  - name: Poisoning by oth narcotics, accidental (unintentional), init
-    description: Dilation of Right Colic Artery, Percutaneous Endoscopic Approach
-    url: http://elpais.com
+    url: "http://princeton.edu"
+  - description: "Dilation of Right Colic Artery, Percutaneous Endoscopic Approach"
+    name: "Poisoning by oth narcotics, accidental (unintentional), init"
     type: topic_1
-  - name: Oth comp due to other GU prosthetic materials, subs
-    description: Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach
-    url: http://163.com
+    url: "http://elpais.com"
+  - description: "Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach"
+    name: "Oth comp due to other GU prosthetic materials, subs"
     type: topic_1
-  - name: Disp fx of prox phalanx of unsp great toe, 7thD
-    description:
-      Removal of Autologous Tissue Substitute from Right Thumb Phalanx, Open
-      Approach
-    url: http://admin.ch
+    url: "http://163.com"
+  - description: "Removal of Autologous Tissue Substitute from Right Thumb Phalanx, Open Approach"
+    name: "Disp fx of prox phalanx of unsp great toe, 7thD"
     type: topic_1
-  - name: Osteonecrosis due to previous trauma, left tibia
-    description: Destruction of Left Atrial Appendage, Open Approach
-    url: https://webnode.com
+    url: "http://admin.ch"
+  - description: "Destruction of Left Atrial Appendage, Open Approach"
+    name: "Osteonecrosis due to previous trauma, left tibia"
     type: topic_1
-  - name: Unsp fx left patella, subs for opn fx type I/2 w malunion
-    description:
-      Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous
-      Tissue Substitute, Percutaneous Endoscopic Approach
-    url: http://smugmug.com
+    url: "https://webnode.com"
+  - description: "Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    name: "Unsp fx left patella, subs for opn fx type I/2 w malunion"
     type: topic_1
-  - name: Nondisplaced transverse fracture of unspecified patella
-    description:
-      Bypass Right Hand Vein to Upper Vein with Autologous Venous Tissue,
-      Open Approach
-    url: https://privacy.gov.au
+    url: "http://smugmug.com"
+  - description: "Bypass Right Hand Vein to Upper Vein with Autologous Venous Tissue, Open Approach"
+    name: "Nondisplaced transverse fracture of unspecified patella"
     type: topic_1
-  - name: Contusion of oral cavity, subsequent encounter
-    description:
-      Replacement of Left Pulmonary Artery with Autologous Tissue Substitute,
-      Open Approach
-    url: http://seattletimes.com
+    url: "https://privacy.gov.au"
+  - description: "Replacement of Left Pulmonary Artery with Autologous Tissue Substitute, Open Approach"
+    name: "Contusion of oral cavity, subsequent encounter"
     type: topic_1
-  - name: Poisoning by antiasthmatics, undetermined, sequela
-    description:
-      Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous
-      Endoscopic Approach
-    url: https://wikipedia.org
+    url: "http://seattletimes.com"
+  - description: "Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous Endoscopic Approach"
+    name: "Poisoning by antiasthmatics, undetermined, sequela"
     type: topic_1
-  - name: Strain msl/tnd lng extn msl of toe at ank/ft level, l foot
-    description: Detachment at Right Upper Leg, Low, Open Approach
-    url: https://squidoo.com
+    url: "https://wikipedia.org"
+  - description: "Detachment at Right Upper Leg, Low, Open Approach"
+    name: "Strain msl/tnd lng extn msl of toe at ank/ft level, l foot"
     type: topic_1
-  - name: Poisoning by anterior pituitary hormones, accidental, subs
-    description: Extirpation of Matter from Right Carotid Body, Open Approach
-    url: http://livejournal.com
+    url: "https://squidoo.com"
+  - description: "Extirpation of Matter from Right Carotid Body, Open Approach"
+    name: "Poisoning by anterior pituitary hormones, accidental, subs"
     type: topic_1
-  - name: Laceration of unsp blood vessel at ank/ft level, left leg
-    description: Restriction of Left Subclavian Vein, Percutaneous Approach
-    url: https://upenn.edu
+    url: "http://livejournal.com"
+  - description: "Restriction of Left Subclavian Vein, Percutaneous Approach"
+    name: "Laceration of unsp blood vessel at ank/ft level, left leg"
     type: topic_1
-  - name: Lead-induced chronic gout, left hip, with tophus (tophi)
-    description: Inspection of Right Lower Leg, Percutaneous Approach
-    url: https://ovh.net
+    url: "https://upenn.edu"
+  - description: "Inspection of Right Lower Leg, Percutaneous Approach"
+    name: "Lead-induced chronic gout, left hip, with tophus (tophi)"
     type: topic_1
-  - name: Displaced unsp fx left lesser toe(s), subs for fx w nonunion
-    description:
-      Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open
-      Approach
-    url: http://scribd.com
+    url: "https://ovh.net"
+  - description: "Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open Approach"
+    name: "Displaced unsp fx left lesser toe(s), subs for fx w nonunion"
     type: topic_1
-  - name: Terrorism
-    description: Occlusion of Left Hand Vein with Intraluminal Device, Open Approach
-    url: http://shutterfly.com
+    url: "http://scribd.com"
+  - description: "Occlusion of Left Hand Vein with Intraluminal Device, Open Approach"
+    name: Terrorism
     type: topic_1
-  - name: Inj great saphenous at lower leg level, left leg, subs
-    description:
-      Revision of Internal Fixation Device in Right Lower Femur, Percutaneous
-      Approach
-    url: https://hao123.com
+    url: "http://shutterfly.com"
+  - description: "Revision of Internal Fixation Device in Right Lower Femur, Percutaneous Approach"
+    name: "Inj great saphenous at lower leg level, left leg, subs"
     type: topic_1
-  - name: Oth specific arthropathies, NEC, unsp site
-    description: Control Bleeding in Left Upper Arm, Open Approach
-    url: http://nhs.uk
+    url: "https://hao123.com"
+  - description: "Control Bleeding in Left Upper Arm, Open Approach"
+    name: "Oth specific arthropathies, NEC, unsp site"
     type: topic_1
-  - name: Displaced fracture of right ulna styloid process, sequela
-    description: Destruction of Bladder, Via Natural or Artificial Opening
-    url: https://ow.ly
+    url: "http://nhs.uk"
+  - description: "Destruction of Bladder, Via Natural or Artificial Opening"
+    name: "Displaced fracture of right ulna styloid process, sequela"
     type: topic_1
-  - name: Stress fracture, hip, unsp, subs for fx w delay heal
-    description: Inspection of Right Wrist Joint, Percutaneous Endoscopic Approach
-    url: https://usa.gov
+    url: "https://ow.ly"
+  - description: "Inspection of Right Wrist Joint, Percutaneous Endoscopic Approach"
+    name: "Stress fracture, hip, unsp, subs for fx w delay heal"
     type: topic_1
-  - name: Wedge compression fracture of T11-T12 vertebra, sequela
-    description: Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111)
-    url: http://linkedin.com
+    url: "https://usa.gov"
+  - description: "Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111)"
+    name: "Wedge compression fracture of T11-T12 vertebra, sequela"
     type: topic_2
-  - name: 3-part fracture of surgical neck of unsp humerus, sequela
-    description: Inspection of Abdominal Wall, External Approach
-    url: http://princeton.edu
+    url: "http://linkedin.com"
+  - description: "Inspection of Abdominal Wall, External Approach"
+    name: "3-part fracture of surgical neck of unsp humerus, sequela"
     type: topic_2
-  - name: Poisoning by oth narcotics, accidental (unintentional), init
-    description: Dilation of Right Colic Artery, Percutaneous Endoscopic Approach
-    url: http://elpais.com
+    url: "http://princeton.edu"
+  - description: "Dilation of Right Colic Artery, Percutaneous Endoscopic Approach"
+    name: "Poisoning by oth narcotics, accidental (unintentional), init"
     type: topic_2
-  - name: Oth comp due to other GU prosthetic materials, subs
-    description: Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach
-    url: http://163.com
+    url: "http://elpais.com"
+  - description: "Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach"
+    name: "Oth comp due to other GU prosthetic materials, subs"
     type: topic_2
-  - name: Disp fx of prox phalanx of unsp great toe, 7thD
-    description:
-      Removal of Autologous Tissue Substitute from Right Thumb Phalanx, Open
-      Approach
-    url: http://admin.ch
+    url: "http://163.com"
+  - description: "Removal of Autologous Tissue Substitute from Right Thumb Phalanx, Open Approach"
+    name: "Disp fx of prox phalanx of unsp great toe, 7thD"
     type: topic_2
-  - name: Osteonecrosis due to previous trauma, left tibia
-    description: Destruction of Left Atrial Appendage, Open Approach
-    url: https://webnode.com
+    url: "http://admin.ch"
+  - description: "Destruction of Left Atrial Appendage, Open Approach"
+    name: "Osteonecrosis due to previous trauma, left tibia"
     type: topic_2
-  - name: Unsp fx left patella, subs for opn fx type I/2 w malunion
-    description:
-      Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous
-      Tissue Substitute, Percutaneous Endoscopic Approach
-    url: http://smugmug.com
+    url: "https://webnode.com"
+  - description: "Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    name: "Unsp fx left patella, subs for opn fx type I/2 w malunion"
     type: topic_2
-  - name: Nondisplaced transverse fracture of unspecified patella
-    description:
-      Bypass Right Hand Vein to Upper Vein with Autologous Venous Tissue,
-      Open Approach
-    url: https://privacy.gov.au
+    url: "http://smugmug.com"
+  - description: "Bypass Right Hand Vein to Upper Vein with Autologous Venous Tissue, Open Approach"
+    name: "Nondisplaced transverse fracture of unspecified patella"
     type: topic_2
-  - name: Contusion of oral cavity, subsequent encounter
-    description:
-      Replacement of Left Pulmonary Artery with Autologous Tissue Substitute,
-      Open Approach
-    url: http://seattletimes.com
+    url: "https://privacy.gov.au"
+  - description: "Replacement of Left Pulmonary Artery with Autologous Tissue Substitute, Open Approach"
+    name: "Contusion of oral cavity, subsequent encounter"
     type: topic_2
-  - name: Poisoning by antiasthmatics, undetermined, sequela
-    description:
-      Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous
-      Endoscopic Approach
-    url: https://wikipedia.org
+    url: "http://seattletimes.com"
+  - description: "Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous Endoscopic Approach"
+    name: "Poisoning by antiasthmatics, undetermined, sequela"
     type: topic_2
-  - name: Strain msl/tnd lng extn msl of toe at ank/ft level, l foot
-    description: Detachment at Right Upper Leg, Low, Open Approach
-    url: https://squidoo.com
+    url: "https://wikipedia.org"
+  - description: "Detachment at Right Upper Leg, Low, Open Approach"
+    name: "Strain msl/tnd lng extn msl of toe at ank/ft level, l foot"
     type: topic_2
-  - name: Poisoning by anterior pituitary hormones, accidental, subs
-    description: Extirpation of Matter from Right Carotid Body, Open Approach
-    url: http://livejournal.com
+    url: "https://squidoo.com"
+  - description: "Extirpation of Matter from Right Carotid Body, Open Approach"
+    name: "Poisoning by anterior pituitary hormones, accidental, subs"
     type: topic_2
-  - name: Laceration of unsp blood vessel at ank/ft level, left leg
-    description: Restriction of Left Subclavian Vein, Percutaneous Approach
-    url: https://upenn.edu
+    url: "http://livejournal.com"
+  - description: "Restriction of Left Subclavian Vein, Percutaneous Approach"
+    name: "Laceration of unsp blood vessel at ank/ft level, left leg"
     type: topic_2
-  - name: Lead-induced chronic gout, left hip, with tophus (tophi)
-    description: Inspection of Right Lower Leg, Percutaneous Approach
-    url: https://ovh.net
+    url: "https://upenn.edu"
+  - description: "Inspection of Right Lower Leg, Percutaneous Approach"
+    name: "Lead-induced chronic gout, left hip, with tophus (tophi)"
     type: topic_2
-  - name: Displaced unsp fx left lesser toe(s), subs for fx w nonunion
-    description:
-      Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open
-      Approach
-    url: http://scribd.com
+    url: "https://ovh.net"
+  - description: "Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open Approach"
+    name: "Displaced unsp fx left lesser toe(s), subs for fx w nonunion"
     type: topic_2
-  - name: Terrorism
-    description: Occlusion of Left Hand Vein with Intraluminal Device, Open Approach
-    url: http://shutterfly.com
+    url: "http://scribd.com"
+  - description: "Occlusion of Left Hand Vein with Intraluminal Device, Open Approach"
+    name: Terrorism
     type: topic_2
-  - name: Inj great saphenous at lower leg level, left leg, subs
-    description:
-      Revision of Internal Fixation Device in Right Lower Femur, Percutaneous
-      Approach
-    url: https://hao123.com
+    url: "http://shutterfly.com"
+  - description: "Revision of Internal Fixation Device in Right Lower Femur, Percutaneous Approach"
+    name: "Inj great saphenous at lower leg level, left leg, subs"
     type: topic_2
-  - name: Oth specific arthropathies, NEC, unsp site
-    description: Control Bleeding in Left Upper Arm, Open Approach
-    url: http://nhs.uk
+    url: "https://hao123.com"
+  - description: "Control Bleeding in Left Upper Arm, Open Approach"
+    name: "Oth specific arthropathies, NEC, unsp site"
     type: topic_2
-  - name: Displaced fracture of right ulna styloid process, sequela
-    description: Destruction of Bladder, Via Natural or Artificial Opening
-    url: https://ow.ly
+    url: "http://nhs.uk"
+  - description: "Destruction of Bladder, Via Natural or Artificial Opening"
+    name: "Displaced fracture of right ulna styloid process, sequela"
     type: topic_2
-  - name: Stress fracture, hip, unsp, subs for fx w delay heal
-    description: Inspection of Right Wrist Joint, Percutaneous Endoscopic Approach
-    url: https://usa.gov
+    url: "https://ow.ly"
+  - description: "Inspection of Right Wrist Joint, Percutaneous Endoscopic Approach"
+    name: "Stress fracture, hip, unsp, subs for fx w delay heal"
     type: topic_2
-  - name: Wedge compression fracture of T11-T12 vertebra, sequela
-    description: Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111)
-    url: http://linkedin.com
+    url: "https://usa.gov"
+  - description: "Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111)"
+    name: "Wedge compression fracture of T11-T12 vertebra, sequela"
     type: topic_3
-  - name: 3-part fracture of surgical neck of unsp humerus, sequela
-    description: Inspection of Abdominal Wall, External Approach
-    url: http://princeton.edu
+    url: "http://linkedin.com"
+  - description: "Inspection of Abdominal Wall, External Approach"
+    name: "3-part fracture of surgical neck of unsp humerus, sequela"
     type: topic_3
-  - name: Poisoning by oth narcotics, accidental (unintentional), init
-    description: Dilation of Right Colic Artery, Percutaneous Endoscopic Approach
-    url: http://elpais.com
+    url: "http://princeton.edu"
+  - description: "Dilation of Right Colic Artery, Percutaneous Endoscopic Approach"
+    name: "Poisoning by oth narcotics, accidental (unintentional), init"
     type: topic_3
-  - name: Oth comp due to other GU prosthetic materials, subs
-    description: Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach
-    url: http://163.com
+    url: "http://elpais.com"
+  - description: "Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach"
+    name: "Oth comp due to other GU prosthetic materials, subs"
     type: topic_3
-  - name: Disp fx of prox phalanx of unsp great toe, 7thD
-    description:
-      Removal of Autologous Tissue Substitute from Right Thumb Phalanx, Open
-      Approach
-    url: http://admin.ch
+    url: "http://163.com"
+  - description: "Removal of Autologous Tissue Substitute from Right Thumb Phalanx, Open Approach"
+    name: "Disp fx of prox phalanx of unsp great toe, 7thD"
     type: topic_3
-  - name: Osteonecrosis due to previous trauma, left tibia
-    description: Destruction of Left Atrial Appendage, Open Approach
-    url: https://webnode.com
+    url: "http://admin.ch"
+  - description: "Destruction of Left Atrial Appendage, Open Approach"
+    name: "Osteonecrosis due to previous trauma, left tibia"
     type: topic_3
-  - name: Unsp fx left patella, subs for opn fx type I/2 w malunion
-    description:
-      Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous
-      Tissue Substitute, Percutaneous Endoscopic Approach
-    url: http://smugmug.com
+    url: "https://webnode.com"
+  - description: "Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    name: "Unsp fx left patella, subs for opn fx type I/2 w malunion"
     type: topic_3
-  - name: Nondisplaced transverse fracture of unspecified patella
-    description:
-      Bypass Right Hand Vein to Upper Vein with Autologous Venous Tissue,
-      Open Approach
-    url: https://privacy.gov.au
+    url: "http://smugmug.com"
+  - description: "Bypass Right Hand Vein to Upper Vein with Autologous Venous Tissue, Open Approach"
+    name: "Nondisplaced transverse fracture of unspecified patella"
     type: topic_3
-  - name: Contusion of oral cavity, subsequent encounter
-    description:
-      Replacement of Left Pulmonary Artery with Autologous Tissue Substitute,
-      Open Approach
-    url: http://seattletimes.com
+    url: "https://privacy.gov.au"
+  - description: "Replacement of Left Pulmonary Artery with Autologous Tissue Substitute, Open Approach"
+    name: "Contusion of oral cavity, subsequent encounter"
     type: topic_3
-  - name: Poisoning by antiasthmatics, undetermined, sequela
-    description:
-      Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous
-      Endoscopic Approach
-    url: https://wikipedia.org
+    url: "http://seattletimes.com"
+  - description: "Reposition Left Thumb Phalanx with Internal Fixation Device, Percutaneous Endoscopic Approach"
+    name: "Poisoning by antiasthmatics, undetermined, sequela"
     type: topic_3
-  - name: Strain msl/tnd lng extn msl of toe at ank/ft level, l foot
-    description: Detachment at Right Upper Leg, Low, Open Approach
-    url: https://squidoo.com
+    url: "https://wikipedia.org"
+  - description: "Detachment at Right Upper Leg, Low, Open Approach"
+    name: "Strain msl/tnd lng extn msl of toe at ank/ft level, l foot"
     type: topic_3
-  - name: Poisoning by anterior pituitary hormones, accidental, subs
-    description: Extirpation of Matter from Right Carotid Body, Open Approach
-    url: http://livejournal.com
+    url: "https://squidoo.com"
+  - description: "Extirpation of Matter from Right Carotid Body, Open Approach"
+    name: "Poisoning by anterior pituitary hormones, accidental, subs"
     type: topic_3
-  - name: Laceration of unsp blood vessel at ank/ft level, left leg
-    description: Restriction of Left Subclavian Vein, Percutaneous Approach
-    url: https://upenn.edu
+    url: "http://livejournal.com"
+  - description: "Restriction of Left Subclavian Vein, Percutaneous Approach"
+    name: "Laceration of unsp blood vessel at ank/ft level, left leg"
     type: topic_3
-  - name: Lead-induced chronic gout, left hip, with tophus (tophi)
-    description: Inspection of Right Lower Leg, Percutaneous Approach
-    url: https://ovh.net
+    url: "https://upenn.edu"
+  - description: "Inspection of Right Lower Leg, Percutaneous Approach"
+    name: "Lead-induced chronic gout, left hip, with tophus (tophi)"
     type: topic_3
-  - name: Displaced unsp fx left lesser toe(s), subs for fx w nonunion
-    description:
-      Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open
-      Approach
-    url: http://scribd.com
+    url: "https://ovh.net"
+  - description: "Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open Approach"
+    name: "Displaced unsp fx left lesser toe(s), subs for fx w nonunion"
     type: topic_3
-  - name: Terrorism
-    description: Occlusion of Left Hand Vein with Intraluminal Device, Open Approach
-    url: http://shutterfly.com
-    type: topic_3
-  - name: Inj great saphenous at lower leg level, left leg, subs
-    description:
-      Revision of Internal Fixation Device in Right Lower Femur, Percutaneous
-      Approach
-    url: https://hao123.com
-    type: topic_3
-  - name: Oth specific arthropathies, NEC, unsp site
-    description: Control Bleeding in Left Upper Arm, Open Approach
-    url: http://nhs.uk
-    type: topic_3
-  - name: Displaced fracture of right ulna styloid process, sequela
-    description: Destruction of Bladder, Via Natural or Artificial Opening
-    url: https://ow.ly
-    type: topic_3
-  - name: Stress fracture, hip, unsp, subs for fx w delay heal
-    description: Inspection of Right Wrist Joint, Percutaneous Endoscopic Approach
-    url: https://usa.gov
-    type: topic_3
+    url: "http://scribd.com"
