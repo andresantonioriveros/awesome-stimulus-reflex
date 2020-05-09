@@ -18,7 +18,6 @@ You will need to run `gem install liquid` if you don't already have it installed
 - [Displaced unsp fx left lesser toe(s), subs for fx w nonunion](http://scribd.com) - Bypass Right Renal Vein to Lower Vein with Synthetic Substitute, Open Approach
 - [Oth specific arthropathies, NEC, unsp site](http://nhs.uk) - Control Bleeding in Left Upper Arm, Open Approach
 - [Displaced fracture of right ulna styloid process, sequela](https://ow.ly) - Destruction of Bladder, Via Natural or Artificial Opening
-- [Osteonecrosis due to previous trauma, left tibia](https://webnode.com) - Destruction of Left Atrial Appendage, Open Approach
 - [Strain msl/tnd lng extn msl of toe at ank/ft level, l foot](https://squidoo.com) - Detachment at Right Upper Leg, Low, Open Approach
 - [Poisoning by oth narcotics, accidental (unintentional), init](http://elpais.com) - Dilation of Right Colic Artery, Percutaneous Endoscopic Approach
 - [Poisoning by anterior pituitary hormones, accidental, subs](http://livejournal.com) - Extirpation of Matter from Right Carotid Body, Open Approach
