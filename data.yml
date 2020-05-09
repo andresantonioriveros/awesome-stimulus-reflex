@@ -20,10 +20,6 @@ resources:
     name: "Disp fx of prox phalanx of unsp great toe, 7thD"
     type: topic_1
     url: "http://admin.ch"
-  - description: "Destruction of Left Atrial Appendage, Open Approach"
-    name: "Osteonecrosis due to previous trauma, left tibia"
-    type: topic_1
-    url: "https://webnode.com"
   - description: "Bypass Right Femoral Artery to Bilateral Femoral Arteries with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
     name: "Unsp fx left patella, subs for opn fx type I/2 w malunion"
     type: topic_1
