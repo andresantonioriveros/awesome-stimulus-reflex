@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 4
-    if: "!contains(github.event.head_commit.message, '[nodoc]') || contains(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}, data.yml)"
+    if: "!contains(github.event.head_commit.message, '[nodoc]')"
     steps:
     - uses: actions/checkout@master
     - name: Set up Ruby 2.7
@@ -27,6 +27,7 @@ jobs:
         gem install awesome_list_generator --pre
         awesome_list_generator generate README.md --data data.yml --template .github/config/template.liquid
     - name: Commit files
+      if: "contains(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}, data.yml"
       run: |
         git config --local user.email "andrewmcodes@protonmail.com"
         git config --local user.name "Andrew Mason"
